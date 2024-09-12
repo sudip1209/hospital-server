@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Kolkata General Hospital",
+    "address": "123 Park Street",
+    "state": "West Bengal",
+    "pincode": "700016",
+    "nonEmergencyBeds": 250,
+    "emergencyBeds": 60,
+    "email": "test1.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "North Bengal Medical College",
+    "address": "1 Siliguri Road",
+    "state": "West Bengal",
+    "pincode": "734001",
+    "nonEmergencyBeds": 200,
+    "emergencyBeds": 50,
+    "email": "test2.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "South Bengal Hospital",
+    "address": "456 Diamond Harbour Road",
+    "state": "West Bengal",
+    "pincode": "700038",
+    "nonEmergencyBeds": 180,
+    "emergencyBeds": 40,
+    "email": "test3.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Howrah District Hospital",
+    "address": "789 G.T. Road",
+    "state": "West Bengal",
+    "pincode": "711101",
+    "nonEmergencyBeds": 220,
+    "emergencyBeds": 55,
+    "email": "test4.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Burdwan Medical College",
+    "address": "123 Burdwan Road",
+    "state": "West Bengal",
+    "pincode": "713101",
+    "nonEmergencyBeds": 170,
+    "emergencyBeds": 45,
+    "email": "test5.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Medinipur Hospital",
+    "address": "456 Midnapore Town",
+    "state": "West Bengal",
+    "pincode": "721101",
+    "nonEmergencyBeds": 200,
+    "emergencyBeds": 50,
+    "email": "test6.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Jalpaiguri District Hospital",
+    "address": "789 Jalpaiguri Road",
+    "state": "West Bengal",
+    "pincode": "735101",
+    "nonEmergencyBeds": 210,
+    "emergencyBeds": 55,
+    "email": "test7.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Cooch Behar Medical Center",
+    "address": "101 Cooch Behar Road",
+    "state": "West Bengal",
+    "pincode": "736101",
+    "nonEmergencyBeds": 190,
+    "emergencyBeds": 50,
+    "email": "test8.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Bankura Hospital",
+    "address": "202 Bankura Road",
+    "state": "West Bengal",
+    "pincode": "722101",
+    "nonEmergencyBeds": 180,
+    "emergencyBeds": 45,
+    "email": "test9.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Asansol District Hospital",
+    "address": "303 Asansol Road",
+    "state": "West Bengal",
+    "pincode": "713301",
+    "nonEmergencyBeds": 220,
+    "emergencyBeds": 60,
+    "email": "test10.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Durgapur Medical Center",
+    "address": "404 Durgapur Town",
+    "state": "West Bengal",
+    "pincode": "713205",
+    "nonEmergencyBeds": 200,
+    "emergencyBeds": 55,
+    "email": "test11.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Kalyani Hospital",
+    "address": "505 Kalyani Road",
+    "state": "West Bengal",
+    "pincode": "741235",
+    "nonEmergencyBeds": 170,
+    "emergencyBeds": 50,
+    "email": "test12.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Raghunathganj Medical College",
+    "address": "606 Raghunathganj",
+    "state": "West Bengal",
+    "pincode": "742233",
+    "nonEmergencyBeds": 190,
+    "emergencyBeds": 45,
+    "email": "test13.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Sonarpur Hospital",
+    "address": "707 Sonarpur Road",
+    "state": "West Bengal",
+    "pincode": "700150",
+    "nonEmergencyBeds": 180,
+    "emergencyBeds": 50,
+    "email": "test14.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Nadia District Hospital",
+    "address": "808 Nadia Road",
+    "state": "West Bengal",
+    "pincode": "741101",
+    "nonEmergencyBeds": 210,
+    "emergencyBeds": 55,
+    "email": "test15.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Tamluk Medical College",
+    "address": "909 Tamluk Town",
+    "state": "West Bengal",
+    "pincode": "721636",
+    "nonEmergencyBeds": 190,
+    "emergencyBeds": 50,
+    "email": "test16.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Kolkata South Hospital",
+    "address": "1010 South Kolkata Road",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "nonEmergencyBeds": 220,
+    "emergencyBeds": 60,
+    "email": "test17.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Howrah Medical Center",
+    "address": "1111 Howrah Road",
+    "state": "West Bengal",
+    "pincode": "711202",
+    "nonEmergencyBeds": 200,
+    "emergencyBeds": 55,
+    "email": "test18.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Siliguri District Hospital",
+    "address": "1212 Siliguri Town",
+    "state": "West Bengal",
+    "pincode": "734001",
+    "nonEmergencyBeds": 210,
+    "emergencyBeds": 50,
+    "email": "test19.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Murarai Medical College",
+    "address": "1313 Murarai Road",
+    "state": "West Bengal",
+    "pincode": "731219",
+    "nonEmergencyBeds": 180,
+    "emergencyBeds": 45,
+    "email": "test20.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Kolkata East Hospital",
+    "address": "1414 East Kolkata Road",
+    "state": "West Bengal",
+    "pincode": "700055",
+    "nonEmergencyBeds": 250,
+    "emergencyBeds": 60,
+    "email": "test21.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Darjeeling Medical Center",
+    "address": "1515 Darjeeling Road",
+    "state": "West Bengal",
+    "pincode": "734101",
+    "nonEmergencyBeds": 200,
+    "emergencyBeds": 50,
+    "email": "test22.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Jadavpur Hospital",
+    "address": "1616 Jadavpur Road",
+    "state": "West Bengal",
+    "pincode": "700032",
+    "nonEmergencyBeds": 190,
+    "emergencyBeds": 45,
+    "email": "test23.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "West Midnapore Hospital",
+    "address": "1717 West Midnapore Road",
+    "state": "West Bengal",
+    "pincode": "721101",
+    "nonEmergencyBeds": 210,
+    "emergencyBeds": 55,
+    "email": "test24.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Bamangachhi Medical College",
+    "address": "1818 Bamangachhi",
+    "state": "West Bengal",
+    "pincode": "743233",
+    "nonEmergencyBeds": 180,
+    "emergencyBeds": 50,
+    "email": "test25.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Barasat District Hospital",
+    "address": "1919 Barasat Road",
+    "state": "West Bengal",
+    "pincode": "700124",
+    "nonEmergencyBeds": 200,
+    "emergencyBeds": 55,
+    "email": "test26.email.com",
+    "password": "1234"
+  },
+  {
+    "name": "Ranaghat Medical Center",
+    "address": "2020 Ranaghat Road",
+    "state": "West Bengal",
+    "pincode": "741201",
+    "nonEmergencyBeds": 210,
+    "emergencyBeds": 50,
+    "email": "test27.email.com",
+    "password": "1234"
+  }
+]
