@@ -35,9 +35,9 @@ app.use(cors()); // Allow all origins
 
 app.use(express.json());
 
-app.get("/", (req, res) => {
-  res.status(200).json("Welcome to the server ");
-});
+// app.get("/", (req, res) => {
+//   res.status(200).json("Welcome to the server ");
+// });
 
 // 3) ROUTES
 app.use("/api/v1/hospital", hospitalRouter);
