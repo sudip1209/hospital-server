@@ -27,13 +27,17 @@ const app = express();
 app.use(cors()); // Allow all origins
 
 // OR allow only specific origin (your frontend)
-app.use(
-  cors({
-    origin: "http://127.0.0.1:5500", // Replace this with your frontend's URL if needed
-  })
-);
+// app.use(
+//   cors({
+//     origin: "http://127.0.0.1:5500", // Replace this with your frontend's URL if needed
+//   })
+// );
 
 app.use(express.json());
+
+app.get("/", (req, res) => {
+  res.status(200).json("Welcome to the server ");
+});
 
 // 3) ROUTES
 app.use("/api/v1/hospital", hospitalRouter);
